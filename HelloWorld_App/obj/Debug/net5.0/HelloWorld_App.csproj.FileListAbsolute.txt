@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\HelloWorld_App\bin\Debug\net5.0\HelloWorld_App.exe
+C:\Users\fshai\source\repos\HelloWorld_App\bin\Debug\net5.0\HelloWorld_App.deps.json
+C:\Users\fshai\source\repos\HelloWorld_App\bin\Debug\net5.0\HelloWorld_App.runtimeconfig.json
+C:\Users\fshai\source\repos\HelloWorld_App\bin\Debug\net5.0\HelloWorld_App.runtimeconfig.dev.json
+C:\Users\fshai\source\repos\HelloWorld_App\bin\Debug\net5.0\HelloWorld_App.dll
+C:\Users\fshai\source\repos\HelloWorld_App\bin\Debug\net5.0\HelloWorld_App.pdb
+C:\Users\fshai\source\repos\HelloWorld_App\obj\Debug\net5.0\HelloWorld_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\HelloWorld_App\obj\Debug\net5.0\HelloWorld_App.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\HelloWorld_App\obj\Debug\net5.0\HelloWorld_App.AssemblyInfo.cs
+C:\Users\fshai\source\repos\HelloWorld_App\obj\Debug\net5.0\HelloWorld_App.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\HelloWorld_App\obj\Debug\net5.0\HelloWorld_App.dll
+C:\Users\fshai\source\repos\HelloWorld_App\obj\Debug\net5.0\refint\HelloWorld_App.dll
+C:\Users\fshai\source\repos\HelloWorld_App\obj\Debug\net5.0\HelloWorld_App.pdb
+C:\Users\fshai\source\repos\HelloWorld_App\obj\Debug\net5.0\HelloWorld_App.genruntimeconfig.cache
+C:\Users\fshai\source\repos\HelloWorld_App\obj\Debug\net5.0\ref\HelloWorld_App.dll
