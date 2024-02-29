@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\CalculatorConsoleApp\bin\Debug\net5.0\CalculatorConsoleApp.exe
+C:\Users\fshai\source\repos\CalculatorConsoleApp\bin\Debug\net5.0\CalculatorConsoleApp.deps.json
+C:\Users\fshai\source\repos\CalculatorConsoleApp\bin\Debug\net5.0\CalculatorConsoleApp.runtimeconfig.json
+C:\Users\fshai\source\repos\CalculatorConsoleApp\bin\Debug\net5.0\CalculatorConsoleApp.runtimeconfig.dev.json
+C:\Users\fshai\source\repos\CalculatorConsoleApp\bin\Debug\net5.0\CalculatorConsoleApp.dll
+C:\Users\fshai\source\repos\CalculatorConsoleApp\bin\Debug\net5.0\CalculatorConsoleApp.pdb
+C:\Users\fshai\source\repos\CalculatorConsoleApp\obj\Debug\net5.0\CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\CalculatorConsoleApp\obj\Debug\net5.0\CalculatorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\CalculatorConsoleApp\obj\Debug\net5.0\CalculatorConsoleApp.AssemblyInfo.cs
+C:\Users\fshai\source\repos\CalculatorConsoleApp\obj\Debug\net5.0\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\CalculatorConsoleApp\obj\Debug\net5.0\CalculatorConsoleApp.dll
+C:\Users\fshai\source\repos\CalculatorConsoleApp\obj\Debug\net5.0\refint\CalculatorConsoleApp.dll
+C:\Users\fshai\source\repos\CalculatorConsoleApp\obj\Debug\net5.0\CalculatorConsoleApp.pdb
+C:\Users\fshai\source\repos\CalculatorConsoleApp\obj\Debug\net5.0\CalculatorConsoleApp.genruntimeconfig.cache
+C:\Users\fshai\source\repos\CalculatorConsoleApp\obj\Debug\net5.0\ref\CalculatorConsoleApp.dll

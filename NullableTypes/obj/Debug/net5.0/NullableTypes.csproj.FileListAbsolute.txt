@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\NullableTypes\bin\Debug\net5.0\NullableTypes.exe
+C:\Users\fshai\source\repos\NullableTypes\bin\Debug\net5.0\NullableTypes.deps.json
+C:\Users\fshai\source\repos\NullableTypes\bin\Debug\net5.0\NullableTypes.runtimeconfig.json
+C:\Users\fshai\source\repos\NullableTypes\bin\Debug\net5.0\NullableTypes.runtimeconfig.dev.json
+C:\Users\fshai\source\repos\NullableTypes\bin\Debug\net5.0\NullableTypes.dll
+C:\Users\fshai\source\repos\NullableTypes\bin\Debug\net5.0\NullableTypes.pdb
+C:\Users\fshai\source\repos\NullableTypes\obj\Debug\net5.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\NullableTypes\obj\Debug\net5.0\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\NullableTypes\obj\Debug\net5.0\NullableTypes.AssemblyInfo.cs
+C:\Users\fshai\source\repos\NullableTypes\obj\Debug\net5.0\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\NullableTypes\obj\Debug\net5.0\NullableTypes.dll
+C:\Users\fshai\source\repos\NullableTypes\obj\Debug\net5.0\refint\NullableTypes.dll
+C:\Users\fshai\source\repos\NullableTypes\obj\Debug\net5.0\NullableTypes.pdb
+C:\Users\fshai\source\repos\NullableTypes\obj\Debug\net5.0\NullableTypes.genruntimeconfig.cache
+C:\Users\fshai\source\repos\NullableTypes\obj\Debug\net5.0\ref\NullableTypes.dll
