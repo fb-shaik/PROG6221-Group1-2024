@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\Var_application\bin\Debug\net5.0\Var_application.exe
+C:\Users\fshai\source\repos\Var_application\bin\Debug\net5.0\Var_application.deps.json
+C:\Users\fshai\source\repos\Var_application\bin\Debug\net5.0\Var_application.runtimeconfig.json
+C:\Users\fshai\source\repos\Var_application\bin\Debug\net5.0\Var_application.runtimeconfig.dev.json
+C:\Users\fshai\source\repos\Var_application\bin\Debug\net5.0\Var_application.dll
+C:\Users\fshai\source\repos\Var_application\bin\Debug\net5.0\Var_application.pdb
+C:\Users\fshai\source\repos\Var_application\obj\Debug\net5.0\Var_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\Var_application\obj\Debug\net5.0\Var_application.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\Var_application\obj\Debug\net5.0\Var_application.AssemblyInfo.cs
+C:\Users\fshai\source\repos\Var_application\obj\Debug\net5.0\Var_application.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\Var_application\obj\Debug\net5.0\Var_application.dll
+C:\Users\fshai\source\repos\Var_application\obj\Debug\net5.0\refint\Var_application.dll
+C:\Users\fshai\source\repos\Var_application\obj\Debug\net5.0\Var_application.pdb
+C:\Users\fshai\source\repos\Var_application\obj\Debug\net5.0\Var_application.genruntimeconfig.cache
+C:\Users\fshai\source\repos\Var_application\obj\Debug\net5.0\ref\Var_application.dll
