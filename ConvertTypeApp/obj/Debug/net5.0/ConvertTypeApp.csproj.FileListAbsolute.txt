@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\ConvertTypeApp\bin\Debug\net5.0\ConvertTypeApp.exe
+C:\Users\fshai\source\repos\ConvertTypeApp\bin\Debug\net5.0\ConvertTypeApp.deps.json
+C:\Users\fshai\source\repos\ConvertTypeApp\bin\Debug\net5.0\ConvertTypeApp.runtimeconfig.json
+C:\Users\fshai\source\repos\ConvertTypeApp\bin\Debug\net5.0\ConvertTypeApp.runtimeconfig.dev.json
+C:\Users\fshai\source\repos\ConvertTypeApp\bin\Debug\net5.0\ConvertTypeApp.dll
+C:\Users\fshai\source\repos\ConvertTypeApp\bin\Debug\net5.0\ConvertTypeApp.pdb
+C:\Users\fshai\source\repos\ConvertTypeApp\obj\Debug\net5.0\ConvertTypeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\ConvertTypeApp\obj\Debug\net5.0\ConvertTypeApp.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\ConvertTypeApp\obj\Debug\net5.0\ConvertTypeApp.AssemblyInfo.cs
+C:\Users\fshai\source\repos\ConvertTypeApp\obj\Debug\net5.0\ConvertTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\ConvertTypeApp\obj\Debug\net5.0\ConvertTypeApp.dll
+C:\Users\fshai\source\repos\ConvertTypeApp\obj\Debug\net5.0\refint\ConvertTypeApp.dll
+C:\Users\fshai\source\repos\ConvertTypeApp\obj\Debug\net5.0\ConvertTypeApp.pdb
+C:\Users\fshai\source\repos\ConvertTypeApp\obj\Debug\net5.0\ConvertTypeApp.genruntimeconfig.cache
+C:\Users\fshai\source\repos\ConvertTypeApp\obj\Debug\net5.0\ref\ConvertTypeApp.dll

@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\SimpleConsoleApp\bin\Debug\net5.0\SimpleConsoleApp.exe
+C:\Users\fshai\source\repos\SimpleConsoleApp\bin\Debug\net5.0\SimpleConsoleApp.deps.json
+C:\Users\fshai\source\repos\SimpleConsoleApp\bin\Debug\net5.0\SimpleConsoleApp.runtimeconfig.json
+C:\Users\fshai\source\repos\SimpleConsoleApp\bin\Debug\net5.0\SimpleConsoleApp.runtimeconfig.dev.json
+C:\Users\fshai\source\repos\SimpleConsoleApp\bin\Debug\net5.0\SimpleConsoleApp.dll
+C:\Users\fshai\source\repos\SimpleConsoleApp\bin\Debug\net5.0\SimpleConsoleApp.pdb
+C:\Users\fshai\source\repos\SimpleConsoleApp\obj\Debug\net5.0\SimpleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\SimpleConsoleApp\obj\Debug\net5.0\SimpleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\SimpleConsoleApp\obj\Debug\net5.0\SimpleConsoleApp.AssemblyInfo.cs
+C:\Users\fshai\source\repos\SimpleConsoleApp\obj\Debug\net5.0\SimpleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\SimpleConsoleApp\obj\Debug\net5.0\SimpleConsoleApp.dll
+C:\Users\fshai\source\repos\SimpleConsoleApp\obj\Debug\net5.0\refint\SimpleConsoleApp.dll
+C:\Users\fshai\source\repos\SimpleConsoleApp\obj\Debug\net5.0\SimpleConsoleApp.pdb
+C:\Users\fshai\source\repos\SimpleConsoleApp\obj\Debug\net5.0\SimpleConsoleApp.genruntimeconfig.cache
+C:\Users\fshai\source\repos\SimpleConsoleApp\obj\Debug\net5.0\ref\SimpleConsoleApp.dll

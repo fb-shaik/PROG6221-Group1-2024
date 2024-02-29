@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\LyricsApp\bin\Debug\net5.0\LyricsApp.exe
+C:\Users\fshai\source\repos\LyricsApp\bin\Debug\net5.0\LyricsApp.deps.json
+C:\Users\fshai\source\repos\LyricsApp\bin\Debug\net5.0\LyricsApp.runtimeconfig.json
+C:\Users\fshai\source\repos\LyricsApp\bin\Debug\net5.0\LyricsApp.runtimeconfig.dev.json
+C:\Users\fshai\source\repos\LyricsApp\bin\Debug\net5.0\LyricsApp.dll
+C:\Users\fshai\source\repos\LyricsApp\bin\Debug\net5.0\LyricsApp.pdb
+C:\Users\fshai\source\repos\LyricsApp\obj\Debug\net5.0\LyricsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\LyricsApp\obj\Debug\net5.0\LyricsApp.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\LyricsApp\obj\Debug\net5.0\LyricsApp.AssemblyInfo.cs
+C:\Users\fshai\source\repos\LyricsApp\obj\Debug\net5.0\LyricsApp.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\LyricsApp\obj\Debug\net5.0\LyricsApp.dll
+C:\Users\fshai\source\repos\LyricsApp\obj\Debug\net5.0\refint\LyricsApp.dll
+C:\Users\fshai\source\repos\LyricsApp\obj\Debug\net5.0\LyricsApp.pdb
+C:\Users\fshai\source\repos\LyricsApp\obj\Debug\net5.0\LyricsApp.genruntimeconfig.cache
+C:\Users\fshai\source\repos\LyricsApp\obj\Debug\net5.0\ref\LyricsApp.dll
