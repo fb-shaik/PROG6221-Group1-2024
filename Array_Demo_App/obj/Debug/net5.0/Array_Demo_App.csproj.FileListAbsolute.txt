@@ -1,0 +1,15 @@
+C:\Users\fshai\source\repos\Array_Demo_App\bin\Debug\net5.0\Array_Demo_App.exe
+C:\Users\fshai\source\repos\Array_Demo_App\bin\Debug\net5.0\Array_Demo_App.deps.json
+C:\Users\fshai\source\repos\Array_Demo_App\bin\Debug\net5.0\Array_Demo_App.runtimeconfig.json
+C:\Users\fshai\source\repos\Array_Demo_App\bin\Debug\net5.0\Array_Demo_App.runtimeconfig.dev.json
+C:\Users\fshai\source\repos\Array_Demo_App\bin\Debug\net5.0\Array_Demo_App.dll
+C:\Users\fshai\source\repos\Array_Demo_App\bin\Debug\net5.0\Array_Demo_App.pdb
+C:\Users\fshai\source\repos\Array_Demo_App\obj\Debug\net5.0\Array_Demo_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fshai\source\repos\Array_Demo_App\obj\Debug\net5.0\Array_Demo_App.AssemblyInfoInputs.cache
+C:\Users\fshai\source\repos\Array_Demo_App\obj\Debug\net5.0\Array_Demo_App.AssemblyInfo.cs
+C:\Users\fshai\source\repos\Array_Demo_App\obj\Debug\net5.0\Array_Demo_App.csproj.CoreCompileInputs.cache
+C:\Users\fshai\source\repos\Array_Demo_App\obj\Debug\net5.0\Array_Demo_App.dll
+C:\Users\fshai\source\repos\Array_Demo_App\obj\Debug\net5.0\refint\Array_Demo_App.dll
+C:\Users\fshai\source\repos\Array_Demo_App\obj\Debug\net5.0\Array_Demo_App.pdb
+C:\Users\fshai\source\repos\Array_Demo_App\obj\Debug\net5.0\Array_Demo_App.genruntimeconfig.cache
+C:\Users\fshai\source\repos\Array_Demo_App\obj\Debug\net5.0\ref\Array_Demo_App.dll
